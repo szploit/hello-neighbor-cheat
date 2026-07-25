@@ -126,3 +126,4 @@ Only x64 builds are supported.
 - Dear ImGui contributors
 - MinHook contributors
 - The original RIO imgui internal overlay
+- Spectral and Sailz (spectral0914 and sailz11) on discord.
