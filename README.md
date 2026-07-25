@@ -1,6 +1,6 @@
 # Raven
 
-Raven is an open source internal for **Hello Neighbor: Hide and Seek**, using our internal overlay **https://github.com/MalwareMania/RIO**
+Raven is an open source internal for **Hello Neighbor: Hide and Seek**, using our internal overlay **https://github.com/MalwareMania/RIO** with a custom built-in injector
 It was created for educational and learning purposes, and for fun
 
 ## Features
@@ -127,3 +127,5 @@ Only x64 builds are supported.
 - MinHook contributors
 - The original RIO imgui internal overlay
 - Spectral and Sailz (spectral0914 and sailz11) on discord.
+
+Please report any issues if you are experiencing them, we will try our best to fix them!
